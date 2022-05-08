@@ -1,0 +1,9 @@
+-IF:\C++\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IF:\C++\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IF:\C++\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IF:\C++\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IF:\C++\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IF:\C++\mingw64\x86_64-w64-mingw32\include
+-IF:\C++\C++\C++\phonebook
+-target
+x86_64-pc-windows-gnu
